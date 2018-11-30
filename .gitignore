@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+
+vendor/
+coverage.txt
+
+*.exe
+*.test
+
+noise
+chat
+debug
+
+go.sum
